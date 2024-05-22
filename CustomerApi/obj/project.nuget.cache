@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAQW5XMnhdRr8dkUirgNMbUEb12F/YdtRDHnRyInHaveyla540aBX0cBWXFdZGKrMVwN5kVlxR6Kl2VwFoq5Pw==",
+  "success": true,
+  "projectFilePath": "/Users/sundar/Documents/Padma/CustomerApi/CustomerApi/CustomerApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/sundar/.nuget/packages/microsoft.aspnetcore.openapi/7.0.17/microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
+    "/Users/sundar/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/sundar/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/sundar/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/sundar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/sundar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/sundar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
