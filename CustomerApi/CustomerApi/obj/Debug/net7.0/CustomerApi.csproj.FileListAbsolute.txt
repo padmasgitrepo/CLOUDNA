@@ -1,0 +1,7 @@
+/Users/sundar/Documents/Padma/CustomerApi/CustomerApi/obj/Debug/net7.0/CustomerApi.csproj.AssemblyReference.cache
+/Users/sundar/Documents/Padma/CustomerApi/CustomerApi/obj/Debug/net7.0/CustomerApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sundar/Documents/Padma/CustomerApi/CustomerApi/obj/Debug/net7.0/CustomerApi.AssemblyInfoInputs.cache
+/Users/sundar/Documents/Padma/CustomerApi/CustomerApi/obj/Debug/net7.0/CustomerApi.AssemblyInfo.cs
+/Users/sundar/Documents/Padma/CustomerApi/CustomerApi/obj/Debug/net7.0/CustomerApi.csproj.CoreCompileInputs.cache
+/Users/sundar/Documents/Padma/CustomerApi/CustomerApi/obj/Debug/net7.0/CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/sundar/Documents/Padma/CustomerApi/CustomerApi/obj/Debug/net7.0/CustomerApi.MvcApplicationPartsAssemblyInfo.cache
